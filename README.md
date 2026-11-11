@@ -569,6 +569,9 @@ Os termos de utilização, distribuição e modificação do código-fonte serã
 
 ---
 
+
+---
+
 <p align="center">
   <strong>🧭 RotaVocacional</strong>
 </p>
@@ -585,8 +588,6 @@ Os termos de utilização, distribuição e modificação do código-fonte serã
   <strong>Software Engineering • Education • Technology</strong>
 </p>
 
-
-*Uma plataforma de orientação vocacional desenvolvida com C, JavaScript e PostgreSQL.*
 
 **Software Engineering • Education • Technology**
 
