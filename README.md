@@ -546,7 +546,7 @@ O propósito do projeto é contribuir para que cada estudante tenha mais recurso
 
 Ana Paula Alves Barros;
 
-AAna Jamily Barbosa de Souza;
+Ana Jamily Barbosa de Souza;
 
 Gustavo Henrique de Assunção Bezerra
 
