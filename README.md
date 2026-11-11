@@ -544,9 +544,9 @@ O propósito do projeto é contribuir para que cada estudante tenha mais recurso
 
 ## 👨‍💻 Desenvolvedores
 
-Ana Paula Alves Barros&#x20;
+Ana Paula Alves Barros;
 
-Ana Jamily&#x20;
+AAna Jamily Barbosa de Souza;
 
 Gustavo Henrique de Assunção Bezerra
 
