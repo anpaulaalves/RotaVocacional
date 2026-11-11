@@ -1,23 +1,33 @@
+
 # 🧭 RotaVocacional
 
-\<div align="center">
+<p align="center">
+  <strong>Plataforma Web de Orientação Vocacional</strong>
+</p>
 
-### Plataforma Web de Orientação Vocacional
+<p align="center">
+  <strong>Explore suas habilidades. Descubra possibilidades. Construa seu futuro.</strong>
+</p>
 
-**Explore suas habilidades. Descubra possibilidades. Construa seu futuro.**
+<p align="center">
+  O RotaVocacional é uma plataforma Full Stack de orientação vocacional
+  desenvolvida para auxiliar estudantes na identificação de interesses,
+  habilidades e afinidades profissionais por meio de questionários
+  interativos, análises personalizadas e exploração de carreiras.
+</p>
 
-O **RotaVocacional** é uma plataforma Full Stack de orientação vocacional desenvolvida para auxiliar estudantes na identificação de interesses, habilidades e afinidades profissionais por meio de questionários interativos, análises personalizadas e exploração de carreiras.
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon">
+</p>
 
-
-
-
-
-\
-
-
-**Full Stack Development | C Backend | REST API | PostgreSQL | Career Guidance**
-
-\</div>
+<p align="center">
+  <strong>Full Stack Development | C Backend | REST API | PostgreSQL | Career Guidance</strong>
+</p>
 
 ---
 
