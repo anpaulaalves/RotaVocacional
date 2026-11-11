@@ -588,7 +588,3 @@ Os termos de utilização, distribuição e modificação do código-fonte serã
   <strong>Software Engineering • Education • Technology</strong>
 </p>
 
-
-**Software Engineering • Education • Technology**
-
-\</div>
