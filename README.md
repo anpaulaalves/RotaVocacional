@@ -566,11 +566,25 @@ Os termos de utilização, distribuição e modificação do código-fonte serã
 
 ---
 
-\<div align="center">
 
-### 🧭 RotaVocacional
+---
 
-**Descubra possibilidades. Explore seu potencial. Construa seu futuro.**
+<p align="center">
+  <strong>🧭 RotaVocacional</strong>
+</p>
+
+<p align="center">
+  <strong>Descubra possibilidades. Explore seu potencial. Construa seu futuro.</strong>
+</p>
+
+<p align="center">
+  <em>Uma plataforma de orientação vocacional desenvolvida com C, JavaScript e PostgreSQL.</em>
+</p>
+
+<p align="center">
+  <strong>Software Engineering • Education • Technology</strong>
+</p>
+
 
 *Uma plataforma de orientação vocacional desenvolvida com C, JavaScript e PostgreSQL.*
 
